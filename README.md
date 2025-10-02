@@ -37,7 +37,6 @@ The player has to guess a number within a given range, with limited attempts, an
 
 ---
 
-##Output
 
 Welcome to the Number Guessing Game...!
 ```bash
