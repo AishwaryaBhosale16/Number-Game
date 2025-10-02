@@ -34,3 +34,19 @@ The player has to guess a number within a given range, with limited attempts, an
    ```bash
    java NumberGame
 
+---
+
+Welcome to the Number Guessing Game...!
+
+Round 1 - Guess the number between 1 and 100
+Enter your guess: 50
+Too high! Try again.
+Enter your guess: 25
+Too low! Try again.
+Enter your guess: 37
+Congratulations! You guessed the number 37 in 3 attempts.
+
+Do you want to play again? (yes/no): yes
+
+
+
