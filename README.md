@@ -1,3 +1,4 @@
+
 # 🎮 Number Guessing Game (Java)
 
 A fun **Number Guessing Game** built in Java using `Scanner` and `Random`.  
@@ -37,6 +38,7 @@ The player has to guess a number within a given range, with limited attempts, an
 ---
 
 Welcome to the Number Guessing Game...!
+```bash
 
 Round 1 - Guess the number between 1 and 100
 Enter your guess: 50
